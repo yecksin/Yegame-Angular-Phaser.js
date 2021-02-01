@@ -8,3 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'Yegame';
 }
+
+//npm install phaser@3.24.1
